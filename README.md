@@ -1,4 +1,4 @@
-# One Pin Keypad Eagle Files
+# Progetto One Pin Keypad Eagle Files
 Design files for the One Pin Keypad, a device that simplifies the use of 16 button matrix keypads.
 ## Documentation:
 * [Product Page](https://www.tindie.com/)
